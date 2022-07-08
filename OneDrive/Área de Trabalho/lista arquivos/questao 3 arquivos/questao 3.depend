@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654135626 source:c:\users\firew\onedrive\Área de trabalho\lista arquivos\questao 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
